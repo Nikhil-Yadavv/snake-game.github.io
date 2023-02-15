@@ -3,7 +3,7 @@
 let inputDir = {x: 0, y:0};
 const foodsound = new Audio('food.mp3');
 const gameoversound = new Audio('over.mp3');
-const movesound = new Audio('music.mp3');
+const movesound = new Audio('snake.mp3');
 const musicsound = new Audio('food.mp3');
 let speed = 5;
 let lastPaintTime = 0;
